@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+/* .App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+} */
+
+.App-header {
+  background-color: skyblue;
+  height: 150px;
+  padding: 20px;
+  color: black;
+  letter-spacing: .35cm;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black;
+}
+
+.App-title {
+  font-size: 2cm; 
+  font-style: oblique;
+}
+
+.App-intro {
+  font-size: .75cm;
+  font-weight: bold;
+  background: tan;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  letter-spacing: .10cm;
+}
+
+/* @keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+} */
